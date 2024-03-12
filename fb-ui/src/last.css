@@ -1,0 +1,194 @@
+.last{
+    margin-left: 20px;
+    width: 20%;
+    color: black;
+}
+.thirdthing{
+    color: black;
+}
+   .peoplesbd{
+    max-width: 250px;
+    margin-right: 2px;
+    font-size: 14px;
+   }
+   .topping{
+    display: flex;
+    justify-content: space-between;
+   }
+   .searchiconn{
+    margin-top: 24px;
+   }
+   .threedot{
+    margin-right: 8px;
+   }
+   .image24{
+    width: 40px;
+    height: 38px;
+    border-radius: 30px;
+    position: absolute;
+   }
+   .image25{
+    width: 40px;
+    height: 38px;
+    border-radius: 30px;
+    position: absolute;
+   }
+   .image23{
+    width: 40px;
+    height: 38px;
+    border-radius: 30px;
+    position: absolute;
+   }
+  .account{
+    padding-bottom: 2%;
+    margin-left: 1%;
+    margin-right: 20%;
+  }
+   .name1{
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: -50%;
+    margin-left: 40%;
+  
+   }
+
+   .name2{
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: -50%;
+    margin-left: 40%;
+  
+   }
+ 
+   .name3{
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: -50%;
+    margin-left: 40%;
+  
+   }
+
+   .name4{
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: -50%;
+    margin-left: 40%;
+  
+   }
+
+   .name5{
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: -50%;
+    margin-left: 40%;
+  
+   }
+
+   .name6{
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: -50%;
+    margin-left: 40%;
+  
+   }
+
+   .name7{
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: -50%;
+    margin-left: 40%;
+  
+   }
+
+   .name8{
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: -50%;
+    margin-left: 40%;
+  
+   }
+
+   .name9{
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: -50%;
+    margin-left: 40%;
+  
+   }
+
+   .name10{
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: -50%;
+    margin-left: 40%;
+  
+   }
+
+   .name11{
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: -50%;
+    margin-left: 40%;
+  
+   }
+
+   .name12{
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: -50%;
+    margin-left: 40%;
+  
+   }
+   .kidu{
+    margin-top: 8px;
+   }
+   .ali{
+    margin-top: 16px;
+    margin-right: 15px;
+   }
+   .abuki{
+    margin-top: 14px;
+  
+    
+   }
+   .firstdot{
+width: 10px;
+height: 9px;
+background-color: green;
+border: 2px solid white;
+border-radius: 10px;
+margin-top: 22px;
+margin-left: 30px;
+position: absolute;
+   }
+.seconddot{
+    width: 10px;
+    height: 9px;
+    background-color: green;
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 22px;
+    margin-left: 30px;
+    position: absolute;
+       }
+
+.thirddot{
+        width: 10px;
+        height: 9px;
+        background-color: green;
+        border: 2px solid white;
+        border-radius: 10px;
+        margin-top: 12px;
+        margin-left: 28px;
+        position: absolute;
+           }
+.footer{
+    font-size: 12px;
+    max-width: 200px;
+    margin-left: 5%;
+    color: black;
+   }
+   .firstpagecontainer{
+    display: flex;
+    flex-direction: column;
+   }

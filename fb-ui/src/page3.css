@@ -1,0 +1,304 @@
+.thethirdpage{
+    width: 1300px;
+    background-color: white;
+    color: black;
+}
+
+
+.body{
+    
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.lefttnavv{
+    width: 20%;
+   
+    box-shadow: 5px 5px 10px rgb(78, 77, 77);
+}
+.groupss{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.group{
+    font-size: 20px;
+    margin-left: 5%;
+ 
+}
+.settingicon{
+    margin-top: 20px;
+    margin-right: 20px;
+    background-color: rgb(219, 217, 217);
+    height: 26px;
+    width: 24px;
+    border-radius: 20px;
+    padding-left: 7px;
+    padding-top: 7px;
+    color: black;
+}
+.discover{
+    display: flex;
+    justify-content: space-between;
+}
+.dicoversub{
+    margin-top: 15px;
+    font-size: large;
+    color: black;
+    background-color: rgba(251, 251, 251, 0.672);
+    border-radius: 20px;
+    padding: 2%;
+    margin-left: 10px;
+}
+.discover p{
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: 150px;
+    margin-bottom: 0px;
+    margin-top: 7%;
+}
+.createbtnn{
+    height: 30px;
+    width: 90%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-size: 14px;
+    margin-left: 5%;
+    background-color: rgba(188, 208, 215, 0.822);
+    color: rgb(26, 82, 102);
+}
+.yourgrops{
+    display: flex;
+    justify-content: space-between;
+}
+.groupsub{
+    margin-top: 15px;
+    font-size: large;
+    margin-left: 10px;
+    background-color: rgba(251, 251, 251, 0.672);
+    border-radius: 20px;
+    padding: 2%;
+    color: black;
+}
+.yourgrops p{
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: 125px;
+    margin-top: 7%;
+}
+.seeingall{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.seeingall p{
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.see-all-btn{
+    border: none;
+    margin-right: 20px;
+    color: rgb(92, 92, 210);
+    background: transparent;
+}
+.firstgroup{
+   margin-top: -10px;
+   margin-bottom: 0px; 
+}
+.secondgroup{
+    margin-top: -36px;
+   margin-bottom: 0px;  
+}
+.firstgroupright{
+    font-size: 11px;
+    margin-top: -10%;
+    margin-right: 15%;
+     
+}
+
+.secondgroupright{
+    font-size: 10px;
+    margin-top: 12%;
+    margin-right: 25%;
+}
+.thirdgroup{
+    margin-top: -20px;
+   margin-bottom: 0px; 
+}
+.thirdgroupright{
+    font-size: 11px;
+    margin-top: 12%;
+    margin-right: 15%;
+}
+.fourthgroup{
+    margin-top: 0px;
+    margin-bottom: 0px;  
+}
+.fourthgrouppp{
+    font-size: 12px;
+    margin-top: 8%;
+   margin-right: 15%;
+}
+
+.groupimgfourth{
+    width: 50px;
+    height: 40px;
+    margin-left: 10px;
+    border-radius: 2px;
+    margin-top: -25%;
+}
+.fifthgroupright{
+    font-size: 12px;
+    margin-top: 1%;
+   margin-right: 15%; 
+}
+
+.groupimgone{
+    width: 50px;
+    height: 40px;
+    margin-left: 10px;
+    border-radius: 2px;
+    margin-top: 50%;
+}
+.groupimgfifthh{
+    width: 50px;
+    height: 40px;
+    margin-left: 10px;
+    border-radius: 2px;
+    margin-top: 5%;
+}
+.horizontal{
+    margin-left: 5%;
+    margin-right: 5%;
+    color: rgba(35, 36, 36, 0.224);
+}
+.imgonee{
+    display: flex;
+    justify-content: space-between;
+}
+
+.p1-part{
+    font-size: 11px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+.p1-part p{
+    margin-bottom: 5px;
+}
+.quesonmarkicons{
+    margin-bottom: 0px;
+}
+.p2-part p{
+    margin-top: 5px;
+}
+.firstgroupright{
+    margin-top: 20px;
+}
+.Imagesfourth{
+    height: 20px;
+}
+.wallpapers p{
+    font-size: 12px;
+    font-weight: bold;
+    display: inline;
+    
+}
+.wallpapericon{
+    margin-left: 10px;
+}
+.lastgroupright{
+   max-width: 100px;
+}
+.fourthgroupright{
+    margin-right: 30px;
+    margin-top: -5%;
+}
+
+.picone{
+    width: 300px;
+    height: 300px;
+    margin-right: 3px;
+    border-radius: 3px;
+}
+.userimgs{
+    width: 22px;
+    height: 24px;
+    border-radius: 3px;
+    margin-top: 65%;
+    margin-left: 30%;
+    margin-right: 20px;
+}
+.pictwo{
+    width: 300px;
+    border-radius: 3px;
+}
+.picthree{
+    width:200px;
+    margin-right: 2px;
+    border-radius: 3px;
+
+}
+.picfour{
+    width: 200px;
+    margin-right: 2px;
+    border-radius: 3px;
+}
+.picfive{
+    width:200px;
+    margin-right: 2px;
+    height: 248px;
+    border-radius: 3px;
+}
+.toptitle{
+    font-size: 18px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: -30%;
+}
+.usercard{
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+}
+.threedots{
+    margin-top: 2%;
+}
+.ethioblack {
+    padding-right: 40%;
+    margin-bottom: 0px;
+}
+.ethioblack p{
+   margin-top: -26px;
+   font-size: 15px;
+}
+.usercardcontainer{
+    display: flex;
+    flex-direction: column;
+    width: 590px;
+    height: 140px;
+    background-color: rgba(153, 161, 167, 0.367);
+    margin-left: -30%;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 0px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgb(46, 46, 46);
+    margin-bottom: 2px;
+
+}
+.links{
+    margin-top: 0px;
+}
+.links p{
+    font-size: 15px;
+    margin-top: -10px;
+}
+.picturesoflast{
+    margin-left: -30%;
+}
+.links a{
+    font-size: 15px;
+    margin-top: -10px;
+} 

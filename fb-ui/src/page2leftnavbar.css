@@ -1,0 +1,406 @@
+.thewholeconatainer{
+    display: flex;
+    justify-content: space-between;
+    color: black;
+}
+.page2leftcontainer{
+    display: flex;
+    padding-left: 1%;
+    flex-direction: column;
+    box-shadow: 5px 5px 10px rgba(234, 234, 234, 0.431);
+    max-width: 250px;
+}
+.settingclass{
+    display: flex;
+   flex-direction: row;
+   margin-bottom: 0;
+   
+}
+
+.setttingicon{
+width: 20px;
+height: 20px;
+margin-left: 90px;
+border: 3px solid rgba(228, 227, 227, 0.471);
+background-color: rgba(228, 227, 227, 0.471);
+border-radius: 30px;
+margin-top: 20px;
+}
+.serchiconnclass{
+    margin-top: 0;
+    margin-bottom: 6px;
+}
+.inputbox{
+    width: 180px;
+    border: none;
+    background-color: rgba(241, 240, 240, 0.824);
+    line-height: 22px;
+    padding-left: 30px;
+    margin-left: 10px;
+    border-radius: 20px;
+    
+}
+.iconofsearch{
+margin-left: 14px;
+margin-top: 6px;
+position: absolute;
+font-size: 18px;
+}
+.browseallicon{
+    margin-left: 14px;
+    margin-top: 4px;
+    position: absolute;
+    color: white;
+    border: 3px solid blue;
+    border-radius: 20px;
+    background-color: rgb(49, 49, 218);
+}
+.browseinput{
+    width: 180px;
+    border: none;
+    background-color: rgba(241, 240, 240, 0.824);
+    line-height: 28px;
+    padding-left: 30px;
+    margin-left: 10px;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+.notificationclass{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 0;
+}
+.notifyyicon{
+    margin-top: 14px;
+    background-color: rgba(227, 227, 227, 0.77);
+    color: black;
+    border-radius: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    border: 3px solid  rgba(227, 227, 227, 0.77);
+   
+}
+.notificationclass p{
+    font-size: 14px;
+    font-weight: bold;
+    font-family: arial;
+    margin-top: 16px;
+}
+.inboxclass{
+    display: flex;
+    flex-direction: row;
+    margin-top: 0;
+}
+.inboxicon{
+    margin-top: 16px;
+    background-color: rgba(227, 227, 227, 0.77);
+    border-radius: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    border: 3px solid  rgba(227, 227, 227, 0.77);
+    color: black;
+}
+.inboxclass p{
+    font-size: 14px;
+    font-weight: bold;
+    font-family: arial;
+    margin-top: 18px;
+}
+.buyingclass{
+    display: flex;
+    flex-direction: row;
+    margin-top: 0;
+}
+.buingicon{
+    margin-top: 16px;
+    background-color:  rgba(227, 227, 227, 0.77);
+    border-radius: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    border: 3px solid  rgba(227, 227, 227, 0.77);
+    color: black;
+}
+.buyingclass p{
+    font-size: 14px;
+    font-weight: bold;
+    font-family: arial;
+    margin-top: 18px;
+}
+.nexticonnn{
+    margin-top: 20px;
+    margin-left: 130px;
+}
+.sellingclass{
+    display: flex;
+    flex-direction: row;
+    margin-top: 0;
+}
+.sellignicon{
+    margin-top: 16px;
+    background-color:  rgba(227, 227, 227, 0.77);
+    border-radius: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    border: 3px solid  rgba(227, 227, 227, 0.77);
+    color: black;
+}
+.sellingclass p{
+    font-size: 14px;
+    font-weight: bold;
+    font-family: arial;
+    margin-top: 18px;
+}
+.nexticonn{
+    margin-top: 20px;
+    margin-left: 130px;
+}
+.createbtn{
+    background-color: rgb(188, 206, 239);
+    border: none;
+    line-height: 16px;
+    margin-left: 8px;
+    width: 220px;
+    border-radius: 2px;
+    color: rgb(77, 77, 239);
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.filterclass h4{
+    font-size: 14px;
+    font-family: arial;
+    margin-top: 0px;
+}
+.catagoriesclass{
+    margin-top: 0px;
+}
+.catagories{
+    margin-top: 0px;
+}
+.locatonclass p{
+    color: rgb(81, 81, 225);
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: 0px;
+}
+.vehicleclass{
+    display: flex;
+    flex-direction: row;
+    margin-top: 0;
+}
+.vehicleclass p{
+    font-size: 14px;
+    font-weight: bold;
+    font-family: arial;
+    margin-top: 18px; 
+}
+.vehiclesicon{
+    margin-top: 16px;
+    background-color: rgba(227, 227, 227, 0.77);
+    color: black;
+    border-radius: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    border: 3px solid rgba(227, 227, 227, 0.77);
+}
+.properyrentclass{
+    display: flex;
+    flex-direction: row;
+    margin-top: 0; 
+}
+.propertyicon{
+    margin-top: 16px;
+    background-color: rgba(227, 227, 227, 0.77);
+    border-radius: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    border: 3px solid rgba(227, 227, 227, 0.77);
+    color: black; 
+}
+.properyrentclass p{
+    font-size: 14px;
+    font-weight: bold;
+    font-family: arial;
+    margin-top: 18px; 
+}
+.apparelclass{
+    display: flex;
+    flex-direction: row;
+    margin-top: 0; 
+}
+.apparelicon{
+    margin-top: 16px;
+    background-color: rgba(227, 227, 227, 0.77);
+    color: black;
+    border-radius: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    border: 3px solid rgba(227, 227, 227, 0.77);
+}
+.apparelclass p{
+    font-size: 14px;
+    font-weight: bold;
+    font-family: arial;
+    margin-top: 18px; 
+}
+.containertwo{
+   margin-left: 4px;
+   margin-right: 10px;
+   margin-top: 10px;
+}
+.therestofcard{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+}
+.thefirstcard{
+  
+display: flex;
+flex-direction: column;
+height: 150px;
+box-shadow: 5px 5px 10px rgba(232, 232, 232, 0.297);
+}
+.newforyou p{
+    display: inline;
+    margin-left: 20px;
+
+}
+.imgone{
+    width:80px;
+    height: 80px;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+.imgtwo{
+    width:80px;
+    height: 80px;
+    border-radius: 5px;
+    margin-top: 18px;
+    margin-right: 10px;
+}
+.secondclass{
+ display: flex;
+ justify-content: space-between;
+}
+.smalldiscription{
+    margin-right: 100px;
+}
+.smalldiscription p{
+    font-size: 12px;
+    padding-bottom: 0px;
+    margin-top: 30px;
+}
+.firstclass{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.litleblue{
+    background-color: blue;
+    border: none;
+    width: 15px;
+    height: 15px;
+    border-radius: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+.buttons{
+   display: flex;
+   flex-direction: row;
+   padding-bottom: 50px;
+}
+.w{
+    margin-right: 75%;
+    margin-bottom: 100px;
+
+}
+.wdiv{
+    margin-right: 75%;
+    margin-bottom: 100px;
+   margin-top: -8%;
+}
+.thethiredcards{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.thesecondcard{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10px;
+    margin-top: 15px;
+}
+.locatonicon{
+    margin-top: 18px;
+    color: rgb(80, 80, 236);
+}
+.location p{
+    color: rgb(80, 80, 236);
+    font-size: 14px;
+}
+.todayspicks{
+    font-weight: bold;
+}
+.location{
+    display: flex;
+    flex-direction: row;
+}
+.card1 h5{
+margin-bottom: 5px;
+margin-top: 5px;
+}
+.card3 h5{
+    margin-bottom: 5px;
+    margin-top: 5px;
+    }
+.card4 h5{
+    margin-bottom: 5px;
+    margin-top: 5px;
+        }
+.card1 h2{
+    margin-bottom: 5px;
+    margin-top: 5px;
+            }
+.p11{
+    font-size: 14px;
+    max-width: 200px;
+    padding-top: 0px;
+}
+.p22{
+    font-weight: 200;
+}
+.firstcardimg{
+    width: 248px;
+    height:250px;
+    border-radius: 5px;
+}
+.secondcardimg{
+    width: 250px;
+    height: 250px;
+    border-radius: 5px;
+}
+.thirdcardimg{
+    width: 246px;
+    height: 250px;
+    border-radius: 5px;
+}
+.fourthcardimg{
+    width: 246px;
+    height: 250px;
+    border-radius: 5px;
+}
+.card3{
+max-width: 260px;
+}
+.firstcheck{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.secondcheck{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.thirdcheck{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}

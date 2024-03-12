@@ -1,0 +1,313 @@
+.middle{
+    margin-left: 30px;
+    width:80%;
+    height: 530px;
+    overflow: scroll;
+}
+.middle::-webkit-scrollbar{
+    background-color: rgb(243, 243, 243);
+    color: gray;
+}
+.cardcontainer{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+
+.firstcard{
+    width: 25%;
+    height: 280px;
+    border: none;
+    box-shadow: 2px 2px 10px rgba(137, 136, 136, 0.655);
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-right: 5px;
+    position: relative;
+}
+.plusbtn{
+    position: absolute;
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+  border: 2px solid white;
+  background-color: rgba(255, 217, 0, 0.935);
+  margin-left: 40%;
+  margin-top: 120%;
+  font-size: 10px;
+  color: white;
+}
+.firstcardimage{
+    width: 100%;
+    height: 220px;
+}
+.firstcard p{
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    margin-top: 12%;
+}
+.secondcard{
+    width: 25%;
+    height: 280px;
+    border: none;
+    box-shadow: 2px 2px 10px rgba(137, 136, 136, 0.655);
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-right: 5px;
+    position: relative;
+}
+.secondcard p{
+    
+    margin-top: 5px;
+    position: absolute;
+    margin-top: 130%;
+    margin-left: 5px;
+    color: whitesmoke;
+}
+.secondcardimage{
+    width: 100%;
+    height: 280px;
+    
+}
+.subseccardimage{
+    width: 30px;
+    height: 29px;
+    position: absolute;
+   margin: 15px;
+   border-radius: 20px;
+   border: 2px solid rgba(255, 217, 0, 0.726);
+}
+
+.thirdcard{
+    width: 25%;
+    height: 280px;
+    border: none;
+    box-shadow: 2px 2px 10px rgba(137, 136, 136, 0.655);
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-right: 5px;
+    background-color: rgb(235, 234, 234);
+    color: black;
+    position: relative;
+}
+.ppthree{
+    width: 100%;
+    height: 80px;
+    position: absolute;
+}
+.picofcardthree{
+    width: 30px;
+    height: 28px;
+    margin-top: 2px;
+    position: absolute;
+    border-radius: 20px;
+    border: 2px solid rgba(255, 217, 0, 0.726);
+}
+
+.player{
+    position: absolute;
+    margin-top: 80%;
+    font-size: 14px;
+    margin-left: 10px;
+}
+.descrptonofcard{
+    font-size: 10px;
+    margin-top: 24%;
+    padding-left: 6%;
+}
+.fourthcard{
+    width: 25%;
+    height: 280px;
+    border: none;
+    box-shadow: 2px 2px 10px rgba(137, 136, 136, 0.655);
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-right: 5px;
+    background-color: black;
+    position: relative;
+}
+.name{
+    position: absolute;
+    margin-top: 210px;
+    margin-left: 20px;
+    color: white;
+ 
+}
+.ppfourth{
+    position: absolute;
+    width: 30px;
+    height: 28px;
+    border-radius: 40px;
+    border: 2px solid rgba(255, 217, 0, 0.726);
+    margin: 10px;
+
+}
+.picofcardfourth{
+    width: 100%;
+    height: 240px;
+}
+.nexticon{
+    position: absolute;
+    color:black;
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 20px;
+    font-size: 26px;
+    margin-top: 110px;
+    margin-left: 80%;
+
+}
+
+.inputt{
+    width: 100%;
+    height: 160px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px rgba(59, 60, 61, 0.522);
+    margin: 20px;
+    margin-bottom: 50px;
+    padding-top: 10px;
+    margin-left: 0;
+    
+}
+.prof{
+    width: 40px;
+    height: 38px;
+    border-radius: 30px;
+    display: inline;
+    margin: 10px;
+    vertical-align: middle;
+
+}
+.inputtype{
+margin-left: 15px;
+width: 500px;
+line-height: 36px;
+background-color: rgb(230, 229, 229);
+border: none;
+border-radius: 20px;
+padding-left: 10px;
+font-size: 14px;
+margin-top: 0;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.emojis{
+    display: flex;
+    justify-content: space-between;
+    vertical-align: top;
+    flex-direction: row;
+}
+.liveicon{
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+.livevedio{
+margin-left: 16px;
+margin-top: 20px;
+color: red;
+font-size: 20px;
+
+}
+.liveicon p{
+   
+margin-left: 10px;
+font-weight: 500;
+}
+.photoicon{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.mdphoto{
+    margin-left: 16px;
+    margin-top: 20px;
+    color: green;
+    font-size: 20px;
+}
+.photoicon p{
+    margin-left: 10px;
+    font-weight: 500;
+}
+.emojiicon{
+    display: flex;
+    justify-content: space-between;
+}
+.lineemojis{
+   color: rgb(224, 224, 23);
+   font-size: 20px;
+    margin-top: 20px;
+}
+.emojiicon p{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: 500;
+}
+
+.comment{
+    width: 700px;
+    height: 480px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(77, 76, 76, 0.371);
+    margin-left: 0;
+    position: relative;
+}
+.comment2{
+    width: 700px;
+    height: 480px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(77, 76, 76, 0.371);
+    margin-left: 0;
+    position: relative;
+    margin-top: 25%;
+}
+.commenter{
+    width: 40px;
+    height: 38px;
+    margin: 20px;
+    border-radius: 30px;
+    display: inline;
+    position: absolute;
+    
+}
+
+   .top{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0;
+   }
+   .notes{
+    margin-right: 320px;
+   }
+   .notes h5{
+    margin-bottom: 0;
+   }
+   .notes p{
+    margin-top: 0;
+    margin-bottom: 0;
+   }
+   .icons{
+    margin-right: 20px;
+    margin-top: 20px;
+   }
+   .threedots{
+    color: white;
+   }
+   .xbtn{
+    margin-left: 10px;
+    border: none;
+    background: transparent;
+    font-size: 20px;
+   }
+   .comment h4{
+    margin-top: 6px;
+    margin-left: 10px;
+   }
+   .post{
+    width: 700px;
+    
+   }
+  
+

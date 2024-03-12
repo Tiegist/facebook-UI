@@ -1,0 +1,174 @@
+.vediopagecontainerdiv{
+    width: 1300px;
+   
+    padding-bottom: 5%;
+    height: 600px;
+}
+.rightpartvediocontaiener::-webkit-scrollbar{
+    background-color: rgb(243, 243, 243);
+    color: gray;
+}
+.vediopagecontainer{
+    color: black;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    margin: 2%;
+    margin-top: 0px;
+    
+   
+}
+.leftvediopart{
+    
+    padding-right: 10%;
+    box-shadow: 5px 5px 10px rgb(248, 248, 248);
+}
+.searchiconandinput{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10%;
+}
+.homediv{
+    display: flex;
+    flex-direction: row;
+}
+.vedioinputpart{
+background-color: rgba(255, 255, 255, 0.993);
+ border: none;
+ height: 30px;
+ width: 150px;
+ 
+}
+.vedioinputpart::placeholder{
+    color: lightgray;
+    padding-left: 10%;
+    font-size: 14px;
+}
+.vediosearch{
+    background-color: rgba(255, 255, 255, 0.993);
+    height: 30px;
+}
+.vediosleftnav{
+    display: flex;
+    flex-direction: column;
+}
+.homediv1{
+    display: flex;
+    flex-direction: row;
+}
+.livepartnote{
+    margin-left: 10%;
+    margin-top: -2%;
+}
+.homediv2{
+    display: flex;
+    flex-direction: row;
+}
+.homediv3{
+    display: flex;
+    flex-direction: row;
+}
+.homediv4{
+    display: flex;
+    flex-direction: row;
+}
+.homediv5{
+    display: flex;
+    flex-direction: row;
+}
+.homediv6{
+    display: flex;
+    flex-direction: row;
+}
+.homedivnote{
+    display: flex;
+ justify-content: space-between;
+}
+.vedioparticon{
+    margin-bottom: 20%;
+    font-size: 20px;
+    color: rgb(62, 62, 62);
+    background-color: rgb(221, 220, 220);
+    border-radius: 50%;
+    border: 5px solid  rgb(221, 220, 220);
+}
+.vediopartprofile{
+    width: 45px;
+    height: 40px;
+    border-radius: 50%;
+}
+.whre{
+    margin-top: 0px;
+}
+.vedioprofilecontainer{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10%;
+}
+.rightvediopart{
+    box-shadow: 5px 5px 10px rgb(237, 237, 237);
+    width: 600px;
+    padding: 10%;
+     margin-bottom: 0px;
+    padding-top: 0px;
+    padding-left: 15%;
+}
+.rightvediopptop{
+    display: flex;
+   justify-content: space-between;
+   margin-top: -5%;
+}
+.rightvediopptop p{
+    width: 100px;
+    margin-left: 10%;
+    font-size: 15px;
+}
+.ppfollow{
+    background: transparent;
+    color: blue;
+   
+}
+.rightvedioppbottom p{
+    font-size: 14px;
+    margin-top: -5%;
+    margin-left: 10%;
+
+}
+.usersvediopart{
+    width: 110%;
+}
+.veiobottoms{
+    display: flex;
+    justify-content: space-between;
+   width: 110%;
+}
+.vediobottomsone{
+    display: flex;
+    justify-content: space-between;
+  margin-right: 2%;
+}
+.iconsbottomone{
+    margin-top: 36%;
+    font-size: 20px;
+    margin-right: 5%;
+  
+}
+.iconsbottomthree{
+    margin-top: 40%;
+    margin-right: 5%;
+    font-size: 20px;
+}
+.iconsbottomtwo{
+    margin-top: 20%;
+    font-size: 20px;
+    margin-right: 5%;
+}
+.lastcomment{
+    font-size: 14px;
+}
+.rightpartvediocontaiener{
+overflow: scroll;
+height: 700px;
+width: 70%;
+
+}
