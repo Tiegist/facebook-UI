@@ -22,7 +22,7 @@
     vertical-align: top;
 }
 .profilepic p{
-    margin-right: 89%;
+  
     margin-top: 9px;
 }
 .friends{
@@ -67,49 +67,46 @@
 .leftnavi{
     display: flex;
     justify-content: space-between;
-    width: 30%;
+    width: 22%;
     box-shadow: 5px 5px 10px rgb(240, 240, 240);
     margin-left: 0.3%;
 }
-.tiegistnote{
-    margin-left: 5%;
-    color: black;
 
-}
 .friendsnote{
-    margin-right: 30%;
+    margin-top: -2px;
+    margin-right: 37%;
     color: black;
 }
 .feedsnote{
-    margin-right: 38%;
+    margin-right: 45%;
     color: black;
 }
 .groupsnote{
-    margin-right: 30%;
+    margin-right: 34%;
     color: black;
 }
 .marketplacenote{
-    margin-right: 6%;
+    margin-right: 8%;
     color: black;
 }
 .vediodenote{
-    margin-right: 40%;
+    margin-right: 42%;
     color: black;
 }
 .memoriesnote{
-    margin-right: 18%;
+    margin-right: 21%;
     color: black;
 }
 .savednote{
-    margin-right: 40%;
+    margin-right: 42%;
     color: black;
 }
 .pagesnote{
-    margin-right: 38%;
+    margin-right: 40%;
     color: black;
 }
 .eventsnote{
-    margin-right: 36%;
+    margin-right: 37%;
     color: black;
 }
 
@@ -133,7 +130,7 @@
     
 }
 .groupiconn p{
-    margin-right: 94%;
+    
     margin-top: 10px;
 }
 .marketplacee{
@@ -150,7 +147,6 @@
     vertical-align: top;
 }
 .landmark p{
-    margin-right: 91%;
     margin-top: 14px;
 }
 .vedi{
@@ -165,10 +161,8 @@
     display: flex;
     justify-content: space-between;
     vertical-align: top;
-    
 }
 .vedioiconn p{
-    margin-right: 95%;
     margin-top: 10px;
 }
 .memories{
@@ -185,7 +179,6 @@
     vertical-align: top; 
 }
 .memoryiconn p{
-    margin-right: 92.5%;
     margin-top: 10px;
 }
 .saved{
@@ -202,7 +195,6 @@
     vertical-align: top; 
 }
 .savediconn p{
-    margin-right: 94.5%;
     margin-top: 12px;
 }
 .pages{
@@ -220,7 +212,6 @@
     
 }
 .pagesiconn p{
-    margin-right: 94%;
     margin-top: 10px;
 }
 .events{
@@ -256,7 +247,6 @@
     
 }
 .addmanagericonn p{
-    margin-right: 90.5%;
     margin-top: 14px;
 }
 .seemore{
@@ -273,7 +263,6 @@
     
 }
 .seemoreiconn p{
-    margin-right: 93.5%;
     margin-top: 10px;
 }
 

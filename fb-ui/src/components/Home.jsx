@@ -1,3 +1,4 @@
+
 import react from 'react'
 import { FaUserFriends } from "react-icons/fa";
 import { FaPersonBreastfeeding } from "react-icons/fa6";
@@ -16,6 +17,9 @@ import { MdOutlineEmojiEmotions } from "react-icons/md";
 import { BsThreeDots } from "react-icons/bs";
 import { CiSearch } from "react-icons/ci";
 import { FiPlus } from "react-icons/fi";
+import { PiShareFat } from "react-icons/pi";
+import { FaRegComment } from "react-icons/fa";
+import { BiLike } from "react-icons/bi";
 
 function Home(){
 return(
@@ -147,7 +151,7 @@ return(
                 </div>
         
                 <div className='notes'>
-                <h5>cristiano Ronaldo</h5>
+                <h5>Marher Kirubel</h5>
                 <p>yesterday at 1:25 PM.</p>
                 </div>
 
@@ -161,6 +165,20 @@ return(
                 
                 <hr></hr>
                 <img className='post' src='\img27.jpg'></img>
+                <div className="middleiconcontainer">
+                <div className="homeli-sh-co-icon">
+                        <BiLike className='iconsbottomthree'/>
+                        <p>Like</p>
+                    </div>
+                    <div className="homeli-sh-co-icon">
+                        <PiShareFat className='iconsbottomone'/>
+                        <p>share</p>
+                    </div>
+                    <div className="homeli-sh-co-icon">
+                        <FaRegComment className='iconsbottomtwo'/>
+                        <p>comment</p>
+                    </div>
+                </div>
                 
         </div>
 
@@ -170,7 +188,7 @@ return(
                 <img className='commenter' src='\bridge-with-leaves.jpeg'></img>
                 </div>
         
-                <div className='notes'>
+                <div className='notes2'>
                 <h5>Tiegist Girma</h5>
                 <p>two weeks ago</p>
                 </div>
@@ -186,6 +204,98 @@ return(
                 <hr></hr>
                 <img className='post' src='\black-frame.avif'></img>
                 
+                <div className="middleiconcontainer">
+                <div className="homeli-sh-co-icon">
+                        <BiLike className='iconsbottomthree'/>
+                        <p>Like</p>
+                    </div>
+                    <div className="homeli-sh-co-icon">
+                        <PiShareFat className='iconsbottomone'/>
+                        <p>share</p>
+                    </div>
+                    <div className="homeli-sh-co-icon">
+                        <FaRegComment className='iconsbottomtwo'/>
+                        <p>comment</p>
+                    </div>
+                </div>
+        </div>
+
+        <div className='comment3'>
+                <div className='top3'>
+                <div className='img'>
+                <img className='commenter' src='\black-frame.avif'></img>
+                </div>
+        
+                <div className='notes3'>
+                <h5>Girma Hassen</h5>
+                <p>yesterday at 8:05 AM.</p>
+                </div>
+
+                <div className='icons'>
+                        <a href='www.goole.com'><BsThreeDots className='threedots' /></a>
+                        <button className='xbtn'>x</button>
+                </div>
+                </div>
+                
+                <h4>Back for more!</h4>
+                
+                <hr></hr>
+                <img className='post' src='\mountain-with-sea.avif'></img>
+                
+                <div className="middleiconcontainer">
+                <div className="homeli-sh-co-icon">
+                        <BiLike className='iconsbottomthree'/>
+                        <p>Like</p>
+                    </div>
+                    <div className="homeli-sh-co-icon">
+                        <PiShareFat className='iconsbottomone'/>
+                        <p>share</p>
+                    </div>
+                    <div className="homeli-sh-co-icon">
+                        <FaRegComment className='iconsbottomtwo'/>
+                        <p>comment</p>
+                    </div>
+                </div>
+        </div>
+
+
+        <div className='comment4'>
+                <div className='top4'>
+                <div className='img'>
+                <img className='commenter' src='\wire-digital-technology.avif'></img>
+                </div>
+        
+                <div className='notes4'>
+                <h5>Birhane Ayalew</h5>
+                <p>one minute ago</p>
+                </div>
+
+                <div className='icons'>
+                        <a href='www.goole.com'><BsThreeDots className='threedots' /></a>
+                        <button className='xbtn'>x</button>
+                </div>
+                </div>
+                
+                <h4>Back for more!</h4>
+                
+                <hr></hr>
+                <img className='post' src='\tree-alone.avif'></img>
+                
+
+                <div className="middleiconcontainer">
+                <div className="homeli-sh-co-icon">
+                        <BiLike className='iconsbottomthree'/>
+                        <p>Like</p>
+                    </div>
+                    <div className="homeli-sh-co-icon">
+                        <PiShareFat className='iconsbottomone'/>
+                        <p>share</p>
+                    </div>
+                    <div className="homeli-sh-co-icon">
+                        <FaRegComment className='iconsbottomtwo'/>
+                        <p>comment</p>
+                    </div>
+                </div>
         </div>
         
         

@@ -78,6 +78,7 @@ function Cshoppage(){
         
     </div>
    </div>
+   <hr className='horizontal'></hr>
    <div className='secondgroup'>
     <div className='imgonee'>
         <div className='secondgroupleft'>
@@ -99,7 +100,7 @@ function Cshoppage(){
     </div>
    </div>
 
-
+   <hr className='horizontal'></hr>
    <div className='thirdgroup'>
     <div className='imgonee'>
         <div className='thirdgroupleft'>
@@ -116,7 +117,7 @@ function Cshoppage(){
         
     </div>
    </div>
-
+   <hr className='horizontal'></hr>
    <div className='fourthgrouppp'>
     <div className='imgonee'>
         <div className='fourthgroupleft'>
@@ -134,7 +135,7 @@ function Cshoppage(){
     </div>
    </div>
 
-
+   <hr className='horizontal'></hr>
    <div className='fifthgroup'>
     <div className='imgonee'>
         <div className='fifthgroupleft'>
@@ -157,6 +158,7 @@ function Cshoppage(){
        
         <div className='rightpartofbody'>
         <div className='toptitle'><p>Recent activity</p></div>
+        <div className='thebigestcard'>
         <div className="usercardcontainer">
         <div className='usercard'>
                 <div  className='userprofile'>
@@ -189,16 +191,18 @@ function Cshoppage(){
            
             <div className='picturesoflast'>
                 <div className='firstgroupofimg'>
-                    <img className='picone' src='\img26.jpg'></img>
+                    <img className='picone' src='\waterfall.avif'></img>
                     <img className='pictwo' src='\img15.jpg'></img>
                    
                 </div>
                 <div className='secondgroupofmg'>
                     <img className='picthree' src='\img13.jpg'></img>
                     <img className='picfour' src='\img10.jpg'></img>
-                    <img className='picfive' src='\img27.jpg'></img>
+                    <img className='picfive' src='\tree-alone.avif'></img>
                 </div>
             </div>
+        </div>
+        
         </div>
     </div>
        </div>

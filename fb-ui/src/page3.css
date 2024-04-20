@@ -10,12 +10,13 @@
     margin-top: 10px;
     display: flex;
     justify-content: space-between;
+    margin-bottom: 3%;
 
 }
 .lefttnavv{
     width: 20%;
-   
-    box-shadow: 5px 5px 10px rgb(78, 77, 77);
+   border-top-right-radius: 4px;
+    box-shadow: 5px 5px 10px rgb(235, 234, 234), -5px -5px rgb(252, 252, 252);
 }
 .groupss{
     display: flex;
@@ -65,8 +66,8 @@
     padding-bottom: 0px;
     font-size: 14px;
     margin-left: 5%;
-    background-color: rgba(188, 208, 215, 0.822);
-    color: rgb(26, 82, 102);
+    background-color: rgba(169, 176, 209, 0.822);
+    color: rgb(34, 31, 177);
 }
 .yourgrops{
     display: flex;
@@ -110,17 +111,18 @@
 .secondgroup{
     margin-top: -36px;
    margin-bottom: 0px;  
+   padding-top: 10px;
 }
 .firstgroupright{
     font-size: 11px;
-    margin-top: -10%;
+   
     margin-right: 15%;
      
 }
-
 .secondgroupright{
     font-size: 10px;
     margin-top: 12%;
+    
     margin-right: 25%;
 }
 .thirdgroup{
@@ -134,12 +136,14 @@
 }
 .fourthgroup{
     margin-top: 0px;
-    margin-bottom: 0px;  
+    margin-bottom: 0px; 
+   
 }
 .fourthgrouppp{
     font-size: 12px;
     margin-top: 8%;
    margin-right: 15%;
+   padding-top: 10px; 
 }
 
 .groupimgfourth{
@@ -215,12 +219,12 @@
     margin-right: 30px;
     margin-top: -5%;
 }
-
 .picone{
     width: 300px;
     height: 300px;
     margin-right: 3px;
     border-radius: 3px;
+    box-shadow: -5px 0px 10px rgb(212, 211, 211);
 }
 .userimgs{
     width: 22px;
@@ -233,35 +237,40 @@
 .pictwo{
     width: 300px;
     border-radius: 3px;
+    box-shadow: 5px 0px 10px rgb(212, 211, 211);
 }
 .picthree{
     width:200px;
     margin-right: 2px;
     border-radius: 3px;
-
+    box-shadow: -5px 5px 10px rgb(212, 211, 211);
 }
 .picfour{
     width: 200px;
     margin-right: 2px;
     border-radius: 3px;
+    box-shadow: 0px 5px 10px rgb(212, 211, 211);
 }
 .picfive{
     width:200px;
     margin-right: 2px;
     height: 248px;
     border-radius: 3px;
+    box-shadow: 5px 5px 10px rgb(212, 211, 211);
+    
 }
 .toptitle{
     font-size: 18px;
-    color: white;
+    color: black;
     font-family: Arial, Helvetica, sans-serif;
-    margin-left: -30%;
+    margin-left: -29%;
 }
 .usercard{
     display: flex;
     flex-direction: row;
     margin: 0px;
 }
+
 .threedots{
     margin-top: 2%;
 }
@@ -273,18 +282,19 @@
    margin-top: -26px;
    font-size: 15px;
 }
+
 .usercardcontainer{
     display: flex;
     flex-direction: column;
     width: 590px;
     height: 140px;
-    background-color: rgba(153, 161, 167, 0.367);
+    background-color: rgba(246, 247, 248, 0.367);
     margin-left: -30%;
     padding-left: 10px;
     padding-bottom: 10px;
     padding-top: 0px;
     border-radius: 5px;
-    box-shadow: 5px 5px 10px rgb(46, 46, 46);
+    box-shadow: -5px -5px 10px rgb(245, 245, 245), 0px -5px 10px rgb(245, 245, 245);
     margin-bottom: 2px;
 
 }
@@ -302,3 +312,4 @@
     font-size: 15px;
     margin-top: -10px;
 } 
+

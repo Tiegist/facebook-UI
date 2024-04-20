@@ -1,3 +1,4 @@
+
 .middle{
     margin-left: 30px;
     width:80%;
@@ -247,21 +248,43 @@ font-weight: 500;
 }
 
 .comment{
-    width: 700px;
+    width: 740px;
     height: 480px;
     border-radius: 10px;
-    box-shadow: 5px 5px 10px rgba(77, 76, 76, 0.371);
+    box-shadow: 5px 5px 10px rgba(206, 205, 205, 0.371);
     margin-left: 0;
+    padding-bottom: 20px;
     position: relative;
 }
 .comment2{
-    width: 700px;
+    width: 740px;
     height: 480px;
+    padding-bottom: 40px;
     border-radius: 10px;
     box-shadow: 5px 5px 10px rgba(77, 76, 76, 0.371);
     margin-left: 0;
     position: relative;
     margin-top: 25%;
+}
+
+.comment3{
+    width: 740px;
+    height: 480px;
+    border-radius: 10px;
+    padding-bottom: 50px;
+    box-shadow: 5px 5px 10px rgba(77, 76, 76, 0.371);
+    margin-left: 0;
+    position: relative;
+}
+
+.comment4{
+    width: 740px;
+    height: 480px;
+    border-radius: 10px;
+    padding-bottom: 30px;
+    box-shadow: 5px 5px 10px rgba(77, 76, 76, 0.371);
+    margin-left: 0;
+    position: relative;
 }
 .commenter{
     width: 40px;
@@ -278,8 +301,55 @@ font-weight: 500;
     justify-content: space-between;
     margin-bottom: 0;
    }
+   .top3{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+   }
+   .top4{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+   }
    .notes{
-    margin-right: 320px;
+    margin-right: 330px;
+    margin-top: -3px;
+   }
+   .notes2{
+    margin-right: 380px;
+    margin-top: -3px;
+   }
+ .notes3{
+    margin-right: 46%;
+    margin-top: -2px;
+   }
+
+.notes4{
+    margin-right: 370px;
+    margin-top: -2px;
+   }
+   .notes2 h5{
+    margin-bottom: 0;
+   }
+   .notes2 p{
+    margin-top: 0;
+    margin-bottom: 0;
+   }
+
+   .notes3 h5{
+    margin-bottom: 0;
+   }
+   .notes3 p{
+    margin-top: 0;
+    margin-bottom: 0;
+   }
+
+   .notes4 h5{
+    margin-bottom: 0;
+   }
+   .notes4 p{
+    margin-top: 0;
+    margin-bottom: 0;
    }
    .notes h5{
     margin-bottom: 0;
@@ -289,11 +359,13 @@ font-weight: 500;
     margin-bottom: 0;
    }
    .icons{
-    margin-right: 20px;
+   
+    position: relative;
     margin-top: 20px;
+    color: red;
    }
    .threedots{
-    color: white;
+    color: black;
    }
    .xbtn{
     margin-left: 10px;
@@ -306,8 +378,29 @@ font-weight: 500;
     margin-left: 10px;
    }
    .post{
-    width: 700px;
+    width: 740px;
+    margin-bottom: -5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
     
    }
-  
-
+  .middleiconcontainer{
+    display: flex;
+    flex-direction: row;
+    margin-top: -1%;
+  }
+.homeli-sh-co-icon{
+    display: flex;
+    flex-direction: row;
+    padding-right:  5%;
+    
+}
+.iconsbottomthree{
+    color: blue;
+}
+.iconsbottomone{
+    color: green;
+}
+.iconsbottomtwo{
+    color: blue;
+} 

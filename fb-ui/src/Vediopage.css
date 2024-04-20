@@ -1,12 +1,15 @@
 .vediopagecontainerdiv{
-    width: 1300px;
-   
+    width: 1500px;
     padding-bottom: 5%;
     height: 600px;
+  
 }
 .rightpartvediocontaiener::-webkit-scrollbar{
     background-color: rgb(243, 243, 243);
     color: gray;
+}
+.rightpartvediocontaiener{
+    margin-left: 60px;
 }
 .vediopagecontainer{
     color: black;
@@ -15,12 +18,10 @@
     flex-direction: row;
     margin: 2%;
     margin-top: 0px;
-    
-   
 }
 .leftvediopart{
     
-    padding-right: 10%;
+    padding-right: 5%;
     box-shadow: 5px 5px 10px rgb(248, 248, 248);
 }
 .searchiconandinput{
@@ -85,12 +86,12 @@ background-color: rgba(255, 255, 255, 0.993);
  justify-content: space-between;
 }
 .vedioparticon{
-    margin-bottom: 20%;
-    font-size: 20px;
-    color: rgb(62, 62, 62);
-    background-color: rgb(221, 220, 220);
+    margin-bottom: 15%;
+    font-size: 19px;
+    color: rgb(92, 90, 90);
+    background-color: rgb(240, 239, 239);
     border-radius: 50%;
-    border: 5px solid  rgb(221, 220, 220);
+    border: 5px solid  rgb(240, 239, 239);
 }
 .vediopartprofile{
     width: 45px;
@@ -106,7 +107,7 @@ background-color: rgba(255, 255, 255, 0.993);
     margin-top: 10%;
 }
 .rightvediopart{
-    box-shadow: 5px 5px 10px rgb(237, 237, 237);
+    box-shadow: 5px 5px 10px rgb(245, 244, 244);
     width: 600px;
     padding: 10%;
      margin-bottom: 0px;
@@ -165,10 +166,15 @@ background-color: rgba(255, 255, 255, 0.993);
 }
 .lastcomment{
     font-size: 14px;
+    width: 250px;
 }
 .rightpartvediocontaiener{
 overflow: scroll;
 height: 700px;
 width: 70%;
 
+}
+.rightvediopp{
+    margin-top: -10px;
+    padding-top: -10px;
 }

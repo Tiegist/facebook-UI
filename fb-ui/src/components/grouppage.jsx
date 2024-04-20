@@ -91,8 +91,8 @@ return(
             </div>
             <div className='therestofcard'>
             <div className='firstclass'>
-            <div className='cardfirstpart'><img className='imgone' src='\tree-alone.avif'></img></div>
-            <div className='smalldiscription'><p>40+ items were just added to you buy and sell groups.</p>
+            <div className='cardfirstpart'><img className='imgone' src='\bridge-by-the-sea.jpeg'></img></div>
+            <div className='smalldiscription'><p>10+ items were just added to you buy and sell groups.</p>
             <div className='buttons'>
             <div className='litleblue'></div>
             <div className='wdiv'> <p className='w'>6w</p></div>
@@ -103,7 +103,7 @@ return(
             </div>
 
             <div className='secondclass'>
-            <div className='cardsecondpart'><img className='imgtwo' src='\mountain-with-sea.avif'></img></div>
+            <div className='cardsecondpart'><img className='imgtwo' src='\waterfall.avif'></img></div>
             <div className='smalldiscription'><p>40+ items were just added to you buy and sell groups.</p>
             <div className='buttons'>
             <div className='litleblue'></div>
@@ -125,36 +125,35 @@ return(
             </div>
             <div className='thethiredcards'>
                 <div className='card1'>
-                    <img className='firstcardimg' src='\img13.jpg'></img>
+                    <img className='firstcardimg' src='\walk-space-countryside2.avif'></img>
                     <h5>Br3,500</h5>
                     <p className='p11'>disaar hair growth hidden informaion</p>
-                    <p className='p22'>dessie</p>
+                    <p className='p12'>dessie</p>
                 </div>
 
                 <div className='card2'>
-                    <img className='secondcardimg' src='\img15.jpg'></img>
+                    <img className='secondcardimg' src='\waterfall.avif'></img>
                     <h5>Br2,800</h5>
-                    <p className='p11'>romantic</p>
+                    <p className='p21'>romantic</p>
                     <p className='p22'>dessie</p>
                 </div>
 
                 <div className='card3'>
-                    <img className='thirdcardimg' src='\img20.jpg'></img>
+                    <img className='thirdcardimg' src='\bridge-with-leaves.jpeg'></img>
                     <h5>Br10</h5>
-                    <input type='checkbox' className='firstcheck' name='firstcheck' ></input>
+                    <input type='checkbox' checked className='firstcheck' name='firstcheck' ></input>
                     <label for='firstcheck' className='firstcheck'>bale 1 megnita 75 kare</label>
-                    <input type='checkbox' className='secondcheck' name='secondcheck'></input>
+                    <input type='checkbox' checked className='secondcheck' name='secondcheck'></input>
                     <label for='secondcheck' className='secondcheck'>bale 2 megnita 85 kare</label>
-                    <input type='checkbox' className='thirdcheck' name='thirdcheck'></input>
-                    <label for='thirdcheck' className='thirdcheck'>bale 3 megnita 96 kare</label>
-                    <p className='p22'>dessie</p>
+                   
+                    <p className='p32'>dessie</p>
                 </div>
 
                 <div className='card4'>
-                    <img className='fourthcardimg' src='\img22.jpg'></img>
+                    <img className='fourthcardimg' src='\mountain-with-sea.avif'></img>
                     <h5>Br3,500</h5>
-                    <p className='p11'>ye kimem maskemecha</p>
-                    <p className='p22'>dessie</p>
+                    <p className='p41'>ye kimem maskemecha</p>
+                    <p className='p42'>dessie</p>
                 </div>
             </div>
     </div>

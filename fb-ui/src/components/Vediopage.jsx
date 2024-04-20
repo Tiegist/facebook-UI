@@ -86,6 +86,7 @@ return(
                         <FaRegComment className='iconsbottomtwo'/>
                         <p>comment</p>
                     </div>
+                    <br></br>
                     
                    
                     
@@ -112,7 +113,48 @@ return(
                     </div>
                 
                 </div>
-                <h2 className='whre'>the beuty of nature </h2>
+                <h2 className='whre'>the beauty of nature </h2>
+                <video controls='autoplay' className='usersvediopart' src='\vedio.mp4'></video>
+                <div className="veiobottoms">
+                    <div className="vediobottomsone">
+                        <BiLike className='iconsbottomthree'/>
+                        <p>Like</p>
+                    </div>
+                    <div className="vediobottomsone">
+                        <PiShareFat className='iconsbottomone'/>
+                        <p>share</p>
+                    </div>
+                    <div className="vediobottomsone">
+                        <FaRegComment className='iconsbottomtwo'/>
+                        <p>comment</p>
+                    </div>
+                    
+                   
+                    
+                    <p className='lastcomment'>mini bonaparte, kendrik Love and 10k others . 4.4k comments . 4.3M views</p>
+                </div>
+               
+                
+            </div>
+
+            <div className="rightvediopart">
+                <div className="vedioprofilecontainer">
+                    <div className="leftvediopp">
+                    <img className="\walk-space-countryside.avif" ></img>
+                    </div>
+                    <div className="rightvediopp">
+                        <div className="rightvediopptop">
+                        <p>beami bez</p>
+                        <button className="ppfollow">Follow</button>
+                        </div>
+                        <div className="rightvedioppbottom">
+                            <p>4 march 2023 .</p>
+                        </div>
+                       
+                    </div>
+                
+                </div>
+                <h2 className='whre'>enjoy the sun </h2>
                 <video controls='autoplay' className='usersvediopart' src='\vedio.mp4'></video>
                 <div className="veiobottoms">
                     <div className="vediobottomsone">

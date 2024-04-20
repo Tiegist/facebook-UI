@@ -50,10 +50,12 @@ border-bottom-left-radius: 5px;
   border-bottom-left-radius: 0px;
   margin-right: 30px;
   margin-top: -0.5%;
+  color: rgb(58, 58, 58);
 
 }
 .searchbar::placeholder{
   padding-left: 20px;
+  color: gray;
 }
 
 .middlenav .homeicon{
